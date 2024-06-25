@@ -8,7 +8,7 @@ As a graduate of the Henry Full Stack Web Developer program, I am well-equipped 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/eduardo-ignacio-torrejón-9786602ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo ignacio torrejón" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eduardo-ignacio-torrejón-9786602ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo ignacio torrejón" height="30" width="40" /></a>
 <a href="https://instagram.com/nach_torr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nach_torr" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
