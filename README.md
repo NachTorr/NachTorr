@@ -5,11 +5,10 @@ Driven and versatile professional with a strong foundation in lighting design an
 As a graduate of the Henry Full Stack Web Developer program, I am well-equipped with the technical skills and knowledge required for modern web development. I am excited to explore opportunities that allow me to combine my passion for technology with my extensive experience in lighting design. My ultimate goal is to contribute creatively and strategically to any development team through the development and implementation of cutting-edge web applications and platforms.
 
 📫 How to reach me nachtorrejon23@gmail.com
-🚀 Also my LinkedIn https://www.linkedin.com/in/eduardo-ignacio-torrejón-9786602ab/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/[your-linkedin-profile]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[your-linkedin-profile]" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/[your-linkedin-profile]](https://www.linkedin.com/in/eduardo-ignacio-torrejón-9786602ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[your-linkedin-profile]" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
